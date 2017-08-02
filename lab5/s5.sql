@@ -1,0 +1,1 @@
+select count(employee_id), sum(salary) from employees where job_id='IT_PROG'

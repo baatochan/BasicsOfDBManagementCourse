@@ -1,0 +1,1 @@
+select count(job_id) from jobs where min_salary>7000
